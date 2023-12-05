@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PlantPal" parent="Theme.Design.Light">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/lightgreen</item>
+        <item name="android:windowBackground">@color/white</item>
+    </style>
+
+    <style name="Theme.PlantPal" parent="Base.Theme.PlantPal" />
+</resources>
